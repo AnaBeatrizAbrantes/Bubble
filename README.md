@@ -1,7 +1,6 @@
 # Bubble — Site para explorar o Subaquático (HTML & CSS)
 
-## Link para acessar:
-[https://anabeatrizabrantes.github.io/bubble](https://anabeatrizabrantes.github.io/bubble)
+## Link para acessar: https://anabeatrizabrantes.github.io/Bubble/
 
 ## Sobre o Projeto
 
