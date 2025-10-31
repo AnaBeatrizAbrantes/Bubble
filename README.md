@@ -14,7 +14,7 @@
 * **Animação de Fundo:** uso de `@keyframes` no CSS para gerar o movimento contínuo das bolhas.  
 * **Efeitos de Hover:** as imagens dos animais aumentam de tamanho, ganham brilho branco e sobem levemente ao passar o mouse (`transform`, `transition`, `box-shadow`).  
 * **Links Interativos:** cada imagem redireciona para a página da **Wikipédia** correspondente.  
-* **Design Temático:** fundo em **gradiente azul-escuro**, tipografia clara e layout centralizado.  
+* **Design Temático:** fundo em **gradiente Roxo-escuro**, tipografia clara e layout centralizado.  
 
 ---
 
